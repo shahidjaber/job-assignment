@@ -1,0 +1,34 @@
+                                         Requirement Documentation of Application
+
+Category: Web Application
+
+Purpose: The purpose of developing this "wax.com Application" is to get help to all those who wants job and those who wants to hire an Employer.
+
+Scope: 
+1. If you want to get a JOB , then this is a best opportunity for you.
+2. With the help of this page , we want to give JOBS to people so that they can get their proper  career.
+
+Information:
+  Developer team: Developer
+  Developer Name: Shahid Jaber
+
+This is an application for Job Seekers and Employers, where Employer can come to post there jobs and Job Seekers can come to build their resumes and Apply to these Jobs.
+
+
+Advantages of This Application:
+   For Employer: Employer can come to post there jobs.
+   For Job seekers: Job Seekers can come to build their resumes and Apply to these Jobs.
+
+Software Tools:
+   Database Server: No Server yet
+   Client: User
+   Development Tools: Visual Studio Code 
+   Programming Language: No Programming language use yet just markup languauge use HTML
+
+Deployement:
+   Operationg System Server: ubuntu: version 18.4
+
+Hardware Specification:
+   processor: Intel Core i5
+   Ram: 12GB
+   Hard Disk: 320Gb SD Harddrive
